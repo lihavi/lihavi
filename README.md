@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**lihavi/lihavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a skilled software engineer with extensive experience in HTML,CSS,JavaScript,React ,Ruby and Ruby on rails. I am passionate about creating impactful software solutions that solve real-world problems and provide value to users.
 
-Here are some ideas to get you started:
+Through collaborating with experienced developers and engineers, I have honed my skills in building reliable and efficient software systems that exceed expectations and deliver an exceptional user experience. My attention to detail and dedication to delivering high-quality work have allowed me to achieve success in both small and large-scale projects.
+
+My commitment to innovation and problem-solving drives me to find creative solutions to complex challenges. I am always eager to expand my skills and knowledge in this rapidly evolving field and take on new opportunities to contribute my expertise.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
